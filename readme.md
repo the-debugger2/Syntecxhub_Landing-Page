@@ -7,8 +7,7 @@ This project showcases a professional business landing page for a tech solutions
 ---
 
 ## 🌐 Live Preview
-
-(Insert deployed link here once hosted)
+https://the-debugger2.github.io/Syntecxhub_Landing-Page/
 
 ---
 
